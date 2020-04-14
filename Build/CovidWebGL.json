@@ -1,7 +1,7 @@
 {
 "companyName": "CreativeGames",
 "productName": "CovidDestroyer3",
-"productVersion": "3.3",
+"productVersion": "35",
 "dataUrl": "CovidWebGL.data.unityweb",
 "wasmCodeUrl": "CovidWebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "CovidWebGL.wasm.framework.unityweb",
